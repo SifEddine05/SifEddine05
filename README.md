@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifeddine05&label=Profile%20views&color=0e75b6&style=flat" alt="sifeddine05" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **NodeJS , Mongodb**
+- 💬 Ask me about **ReactJS ,NodeJS , Mongodb**
 
 - 📫 How to reach me **ks_sellami@esi.dz**
 
