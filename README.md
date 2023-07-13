@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ks_sellami@esi.dz**
 
-- 🚀 check my portfolio : <a heref="https://sifeddine.netlify.app/" >Portfolio</a>
+- 🚀 check my portfolio : <a  target="_blank" rel="noreferrer" href="https://sifeddine.netlify.app/" >Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
